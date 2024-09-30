@@ -90,7 +90,7 @@ const AboutTeam = () => {
 
                 <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white group-hover:text-white">Adithya</h1>
 
-                <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300">Lead designer</p>
+                <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300">Developer</p>
 
                 <div class="flex mt-3 -mx-2">
                     <a href="#" class="mx-2 text-gray-600 dark:text-gray-300 hover:text-gray-500 dark:hover:text-gray-300 group-hover:text-white" aria-label="Reddit">

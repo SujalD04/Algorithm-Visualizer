@@ -106,7 +106,7 @@ const Home = () => {
 
       {/* Card 5 */}
       <div className="card mb-4 transform transition-transform duration-300 hover:scale-105">
-        <a href="#"></a>
+        <a href="#">
         <div className="w-full max-w-xs overflow-hidden bg-white rounded-lg shadow-lg dark:bg-gray-800">
           <img
             className="object-cover w-full h-56"
@@ -127,7 +127,7 @@ const Home = () => {
             </span>
           </div>
         </div>
-        <a/>
+        </a>
       </div>
 
       {/* Card 6 */}
